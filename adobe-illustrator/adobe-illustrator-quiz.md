@@ -27,7 +27,7 @@
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -105,7 +105,7 @@
 
 #### Q14. What is the fastest and most efficient way to ensure that all the objects shown in the figure below are placed precisely next to one another with no space between them?
 
-- [ ] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
+- [x] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
 - [ ] Turn on Smart Guides and drag each object until it snaps to the one next to it.
 - [ ] Choose the Move command and in the dialog box set the Distance value to 0.
 - [ ] Select the objects with the Selection tool, then drag from the side of the selection bounding box until the objects snap together.
@@ -133,7 +133,7 @@
 
 #### Q18. How can you ensure that proper nouns are not hyphenated in the document you're working on?
 
-- [ ] Turn off Hyphenate Capitalized Words in the Paragraph panel.
+- [x] Turn off Hyphenate Capitalized Words in the Paragraph panel.
 - [ ] Select Justify All Lines in the Paragraph panel.
 - [ ] Decrease the Word Spacing in the justification options.
 - [ ] Increase the Hyphenation Zone value in the Paragraph panel so it is greater than the point size of the text.
@@ -150,7 +150,7 @@
 - [ ] the Smooth tool
 - [ ] the Shape Builder tool
 - [ ] the Pencil tool
-- [ ] the Shaper tool
+- [x] the Shaper tool
 
 #### Q21. When using the Live Paint Bucket tool to fill artwork with colors, you are unable to fill some areas due to the size of gaps between paths. What can you do in the Gap Options dialog box to fix this problem?
 
@@ -171,7 +171,7 @@
 ![Overlapping circles](images/009.png?raw=true)
 
 - [ ] The paths do not have a fill attribute.
-- [ ] Only one of the paths is selected, but both need to be selected.
+- [x] Only one of the paths is selected, but both need to be selected.
 - [ ] One of the paths is selected but the Join tool works only with unselected paths.
 - [ ] Endpoints need to be selected in both paths before they can be trimmed and joined.
 
@@ -249,7 +249,7 @@
 #### Q33. If you are looking for a tool in the toolbar and it is not visible, what should you do?
 
 - [ ] With nothing selected, click the More Tools button in the Properties panel.
-- [ ] Click the ellipsis at the bottom of the toolbar.
+- [x] Click the ellipsis at the bottom of the toolbar.
 - [ ] Turn on the tool in the preferences.
 - [ ] In the Window menu, click Window > Tools.
 
